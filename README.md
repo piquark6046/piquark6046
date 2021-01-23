@@ -8,3 +8,6 @@
 
 ### Organization
 * [Pentanium](https://github.com/Pentanium)
+
+### Docs
+* [PiQuark6046's History](https://github.com/piquark6046/piquark6046/blob/master/docs/History.md)
