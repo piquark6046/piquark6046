@@ -1,4 +1,6 @@
 ## Hi! I am PiQuark6046.
+**I love open-source and free software.**
+
 [![PiQuark6046's GitHub stats](https://github-readme-stats.vercel.app/api?username=piquark6046&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Email
 > Please **use a file cloud service** before email me with what the size of all attachment is higher than **10 MiB**.
