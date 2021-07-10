@@ -3,7 +3,7 @@
 
 [![PiQuark6046's GitHub stats](https://github-readme-stats.vercel.app/api?username=piquark6046&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Email
-> Please **[use Send service](https://send.vis.ee)** or [OninsSare](https://onionshare.org/) before email me with what the size of all attachment is higher than **10 MiB**.
+> Please **[use Send service](https://send.vis.ee)** or [OnionShare](https://onionshare.org/) before email me with what the size of all attachment is higher than **10 MiB**.
 * My public email: `piquark6046@tuta.io`
 
 ### [OpenPGP](https://www.openpgp.org)
