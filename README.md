@@ -7,7 +7,7 @@
 * My public email: `piquark6046@protonmail.com`
 
 ### [OpenPGP](https://www.openpgp.org)
-**Enabled my public key**: [File](https://github.com/piquark6046/piquark6046/blob/master/OpenPGP/PiQuark6046_0x4F8F1257_public.asc) ([keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/8D5C43991A8B4471A11CD0BF7F418E734F8F1257)) [`8D5C 4399 1A8B 4471 A11C  D0BF 7F41 8E73 4F8F 1257`]
+**Enabled my public key**: [File](https://github.com/piquark6046/piquark6046/blob/master/OpenPGP/PiQuark6046_0xCBB69BE5_public.asc) ([keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/6600B38056B9793AD0EA81AED2304DD7CBB69BE5)) [`6600 B380 56B9 793A D0EA  81AE D230 4DD7 CBB6 9BE5`]
 
 ### Docs
 * **[Donation](https://github.com/piquark6046/piquark6046/blob/master/docs/donation.md)**
