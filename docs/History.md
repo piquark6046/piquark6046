@@ -6,3 +6,4 @@
 
 ### AD 2021, 12021 HE
 * Recorded as one of top-5 contributors by AdGuard. [#1](https://adguard.com/en/blog/best-contributors-2021.html)
+* Changed my email address from `piquark6046@tuta.io` to `piquark6046@protonmail.com` at Jan. 2.
