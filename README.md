@@ -15,5 +15,4 @@
 * [PiQuark6046's History](https://github.com/piquark6046/piquark6046/blob/master/docs/History.md)
 
 ### Organization
-* [Pentanium](https://github.com/Pentanium)
 * [List-KR](https://github.com/List-KR)
