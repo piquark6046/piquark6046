@@ -1,9 +1,8 @@
 ## Hi! I am PiQuark6046.
-**I love open-source, free software and [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q).**
+**I like open-source, free software, [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) and [DooToon](https://post.naver.com/my.naver?memberNo=2380229)[^1].**
 
 [![PiQuark6046's GitHub stats](https://github-readme-stats.vercel.app/api?username=piquark6046&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Email
-> Please **[use Send service](https://send.vis.ee)** or [OnionShare](https://onionshare.org/) before email me with what the size of all attachment is higher than **10 MiB** except adguard.com domain.
 * My public email (**primary**): `piquark6046@proton.me` 
 * My another public email: `piquark6046@protonmail.com`
 * AdGuard email: `j.w.so@adguard.com`
@@ -15,3 +14,5 @@
 * [AdGuard](https://github.com/AdguardTeam)
 * [List-KR](https://github.com/List-KR)
 * [uBlockOrigin](https://github.com/uBlockOrigin)
+
+[^1]: https://game.naver.com/original_series/17
