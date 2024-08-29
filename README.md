@@ -1,5 +1,5 @@
 ## Hi! I am PiQuark6046.
-**I like open-source, free software, [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) and [DooToon](https://post.naver.com/my.naver?memberNo=2380229)[^1].**
+**I like open-source, free software, [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q) and [Cult of the Lamb](https://www.cultofthelamb.com/).**
 
 [![PiQuark6046's GitHub stats](https://github-readme-stats.vercel.app/api?username=piquark6046&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ### Email
@@ -14,5 +14,3 @@
 * [AdGuard](https://github.com/AdguardTeam)
 * [List-KR](https://github.com/List-KR)
 * [uBlockOrigin](https://github.com/uBlockOrigin)
-
-[^1]: https://game.naver.com/original_series/17
