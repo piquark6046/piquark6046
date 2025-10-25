@@ -9,7 +9,7 @@ In the future, I want to do '[mind transfer](https://en.wikipedia.org/wiki/Mind_
 * AdGuard email: `j.w.so@adguard.com`
 
 ### [OpenPGP](https://www.openpgp.org)
-**Enabled my public key**: [File](https://github.com/piquark6046/piquark6046/blob/master/OpenPGP/PiQuark6046_0x00DDAE40_public.asc) ([keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/FE57A8DEDF68D3A6400DF26E0E5C8ADF00DDAE40)) [`FE57 A8DE DF68 D3A6 400D F26E 0E5C 8ADF 00DD AE40`]
+**Enabled my public key**: [keys.openpgp.org](https://keys.openpgp.org/vks/v1/by-fingerprint/F4CED383110CA1847CE9E9174D41B82B06DFFDBC) [`F4CE D383 110C A184 7CE9 E917 4D41 B82B 06DF FDBC`]
 
 ### Organization
 * [AdGuard](https://github.com/AdguardTeam)
