@@ -1,5 +1,6 @@
 ## Hi! I am PiQuark6046.
 **I like open-source and free software.**
+I just like living in my home and wearing a formal suit style.
 In the future, I want to do '[mind transfer](https://en.wikipedia.org/wiki/Mind_uploading)' myself to a computer.
 
 [![PiQuark6046's GitHub stats](https://github-readme-stats.vercel.app/api?username=piquark6046&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
